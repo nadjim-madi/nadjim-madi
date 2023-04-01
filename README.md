@@ -1,6 +1,7 @@
 [![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&w=1000&q=80)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nadjim MADI</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207..](https://64.media.tumblr.com/89b992357b181920e19e4b7b8a175b8a/tumblr_inline_p7hgs4ZTIc1syjaqp_500.gifv)."/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadjim-madi&label=Profile%20views&color=0e75b6&style=flat" alt="nadjim-madi" /> </p>
