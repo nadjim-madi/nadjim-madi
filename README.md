@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, Gatsby**
 
-- 💬 Ask me about **React, tailwindCSS**
+- 💬 Ask me about **React, tailwindCSS and web development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/nadjim-madi-4a504a23b**
 
